@@ -1,4 +1,4 @@
-### :fire: My Stats :
+
 ![Roee's GitHub stats](https://github-readme-stats.vercel.app/api?username=roee-tal&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roee-tal&layout=compact)](https://github.com/roee-tal)
 
